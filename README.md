@@ -1,4 +1,4 @@
-# Edge-augmented Graph Transformer (PyTorch)
+# Edge-augmented Graph Transformer (EGT)
 
 ## Introduction
 
