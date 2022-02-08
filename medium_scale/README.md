@@ -1,4 +1,4 @@
-# Edge-augmented Graph Transformer
+# Edge-augmented Graph Transformer (Tensorflow)
 
 ## Requirements
 * `python >= 3.7`
